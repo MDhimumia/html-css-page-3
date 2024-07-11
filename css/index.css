@@ -1,0 +1,33 @@
+/* Basice chinge */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-section{
+    display: flex;
+    justify-content: space-between;
+    
+}
+/* image section */
+img{
+   height: 220px;
+   width: 400px;
+   margin-top: 3px;
+   margin-left: 6px;
+   border-radius: 10px;
+   border: 2px solid black;
+   cursor: pointer;
+
+   
+}
+button{
+    padding-left: 160px;
+    padding-right: 180px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.text{
+    padding-top: 20px;
+   
+}
